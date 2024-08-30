@@ -2,9 +2,9 @@
 
 meu nome é Henrique Ramos
 
--estou estudando na [Alura](https://www.alura.com.br)
--estou me desenvolvendo na linguagem JavaScript
--utilizo esse espaço para organização e compartilhamento dos meus projetos
+ -estou estudando na [Alura](https://www.alura.com.br)
+ -estou me desenvolvendo na linguagem JavaScript
+ -utilizo esse espaço para organização e compartilhamento dos meus projetos
 
 ## VOCÊ PODE ENTRAR EM CONTATO COMIGO 
 
